@@ -1,3 +1,13 @@
+/VRFrame/Library/
+/VRFrame/Temp/
+/VRFrame/Assets/Models/
+/VRFrame/ProjectSettings/
+/VRFrame/Packages/
+/VRFrame/UserSettings/
+/VRFrame/Logs/
+
+
+
 # Built application files
 *.apk
 *.aar
