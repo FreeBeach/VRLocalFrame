@@ -2,11 +2,12 @@
 /VRFrame/Temp/
 /VRFrame/Assets/Models/
 /VRFrame/ProjectSettings/
-/VRFrame/Packages/
 /VRFrame/UserSettings/
 /VRFrame/Logs/
-
-
+/VRFrame/obj/
+/VRFrame/*.csproj
+/VRFrame/*.vs*
+/VRFrame/VRFrame.sln
 
 # Built application files
 *.apk
