@@ -8,6 +8,9 @@
 /VRFrame/*.csproj
 /VRFrame/*.vs*
 /VRFrame/VRFrame.sln
+/VRFrame/Bundles/
+/VRFrame/BundlesCache/
+/VRFrame/Assets/StreamingAssets/
 
 # Built application files
 *.apk
